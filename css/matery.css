@@ -567,9 +567,11 @@ header .go-back i {
     content: "";
 }
 
+/*电脑端标题颜色*/
+
 .bg-cover .container {
     position: relative;
-    color: #fff;
+    color: #66ccff;
     z-index: 2;
 }
 
@@ -580,11 +582,13 @@ header .go-back i {
     position: relative;
 }
 
+/*电脑小字颜色*/
+
 .bg-cover .description {
     font-weight: 300;
     font-size: 1.25rem;
     line-height: 1.4em;
-    color: #eee;
+    color: #66ccff;
 }
 
 .bg-cover .post-title {
